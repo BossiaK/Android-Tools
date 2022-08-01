@@ -42,7 +42,7 @@ You have two options here, the lazy way or the non-lazy way.
 Automatic way (recommended!):
 -- Grab a repo with some useful scripts, and run the needed one
 $ sudo apt-get install git-core
-$ git clone https://github.com/akhilnarang/scripts
+$ git clone https://github.com/BossiaK/scripts
 $ cd scripts
 $ ls
 $ bash setup/<script-name>
