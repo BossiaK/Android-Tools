@@ -50,6 +50,7 @@ $ bash setup/<script-name>
 Run the script corresponding to your Linux Distribution:
 arch-manjaro.sh - Arch based distros
 android_build_env.sh - Ubuntu 14, Ubuntu 16, Ubuntu 18, Mint 19
+fedora.sh - Red Hat, Fedora, Nobara
 
 Manual way:
 -- Grab Java 8:
